@@ -35,6 +35,8 @@ h1 {
     color: #FF4B32;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
+    align-self: end;
+    margin-left: 5px;
 }
 
 .Home:hover {
