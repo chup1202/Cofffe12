@@ -31,7 +31,7 @@ body {
     margin: 0;
 }
 
-h1 {
+.logo>h1 {
     color: #FF4B32;
     font-family: 'Josefin Sans', sans-serif;
     font-size: 30px;
@@ -417,6 +417,7 @@ main {
         font-weight: 600;
         line-height: 150%; /* 36px */
         margin-top: 112px;
+
     }
 
     .main1 > h2 {
